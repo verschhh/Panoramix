@@ -21,4 +21,4 @@ A C project running using thread, mutex and semaphore
 [(Back to top)](#table-of-contents)
 
 
-The MIT License (MIT) 2017 - [Léonard Verschuere](https://github.com/athityakumar/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+The MIT License (MIT) 2017 - [Léonard Verschuere](https://github.com/verschhh). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
